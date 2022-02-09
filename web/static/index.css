@@ -1,0 +1,10 @@
+form {
+    margin: 1em auto;
+    padding: 2em;
+    background: aliceblue;
+}
+
+.blurb {
+    font-size: 85%;
+    margin-top: 2em;
+}
